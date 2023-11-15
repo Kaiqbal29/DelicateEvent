@@ -1,0 +1,29 @@
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\08.Delegate dan Event\AkademikApp\AkademikApp\bin\Debug\AkademikApp.exe.config
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\08.Delegate dan Event\AkademikApp\AkademikApp\bin\Debug\AkademikApp.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\08.Delegate dan Event\AkademikApp\AkademikApp\bin\Debug\AkademikApp.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\08.Delegate dan Event\AkademikApp\AkademikApp\obj\Debug\AkademikApp.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\08.Delegate dan Event\AkademikApp\AkademikApp\obj\Debug\AkademikApp.FrmMahasiswa.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\08.Delegate dan Event\AkademikApp\AkademikApp\obj\Debug\AkademikApp.Properties.Resources.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\08.Delegate dan Event\AkademikApp\AkademikApp\obj\Debug\AkademikApp.csproj.GenerateResource.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\08.Delegate dan Event\AkademikApp\AkademikApp\obj\Debug\AkademikApp.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\08.Delegate dan Event\AkademikApp\AkademikApp\obj\Debug\AkademikApp.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\08.Delegate dan Event\AkademikApp\AkademikApp\obj\Debug\AkademikApp.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\08.Delegate dan Event\AkademikApp\AkademikApp\obj\Debug\AkademikApp.FrmEntryMahasiswa.resources
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\01 Ganjil\Pemrograman Lanjut\02 Lab\08 Pertemuan 8\upload\01 Module Praktikum 08\Module Praktikum 08\AkademikApp\AkademikApp\obj\Debug\AkademikApp.csprojAssemblyReference.cache
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\01 Ganjil\Pemrograman Lanjut\02 Lab\08 Pertemuan 8\upload\01 Module Praktikum 08\Module Praktikum 08\AkademikApp\AkademikApp\obj\Debug\AkademikApp.FrmEntryMahasiswa.resources
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\01 Ganjil\Pemrograman Lanjut\02 Lab\08 Pertemuan 8\upload\01 Module Praktikum 08\Module Praktikum 08\AkademikApp\AkademikApp\obj\Debug\AkademikApp.FrmMahasiswa.resources
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\01 Ganjil\Pemrograman Lanjut\02 Lab\08 Pertemuan 8\upload\01 Module Praktikum 08\Module Praktikum 08\AkademikApp\AkademikApp\obj\Debug\AkademikApp.Properties.Resources.resources
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\01 Ganjil\Pemrograman Lanjut\02 Lab\08 Pertemuan 8\upload\01 Module Praktikum 08\Module Praktikum 08\AkademikApp\AkademikApp\obj\Debug\AkademikApp.csproj.GenerateResource.cache
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\01 Ganjil\Pemrograman Lanjut\02 Lab\08 Pertemuan 8\upload\01 Module Praktikum 08\Module Praktikum 08\AkademikApp\AkademikApp\obj\Debug\AkademikApp.csproj.CoreCompileInputs.cache
+E:\Pemograman Lanjut\Untuk mahasiswa\01 Module Praktikum 09\01 Module Praktikum 09\AkademikApp\AkademikApp\bin\Debug\AkademikApp.exe.config
+E:\Pemograman Lanjut\Untuk mahasiswa\01 Module Praktikum 09\01 Module Praktikum 09\AkademikApp\AkademikApp\bin\Debug\AkademikApp.exe
+E:\Pemograman Lanjut\Untuk mahasiswa\01 Module Praktikum 09\01 Module Praktikum 09\AkademikApp\AkademikApp\bin\Debug\AkademikApp.pdb
+E:\Pemograman Lanjut\Untuk mahasiswa\01 Module Praktikum 09\01 Module Praktikum 09\AkademikApp\AkademikApp\obj\Debug\AkademikApp.csproj.AssemblyReference.cache
+E:\Pemograman Lanjut\Untuk mahasiswa\01 Module Praktikum 09\01 Module Praktikum 09\AkademikApp\AkademikApp\obj\Debug\AkademikApp.csproj.SuggestedBindingRedirects.cache
+E:\Pemograman Lanjut\Untuk mahasiswa\01 Module Praktikum 09\01 Module Praktikum 09\AkademikApp\AkademikApp\obj\Debug\AkademikApp.FrmEntryMahasiswa.resources
+E:\Pemograman Lanjut\Untuk mahasiswa\01 Module Praktikum 09\01 Module Praktikum 09\AkademikApp\AkademikApp\obj\Debug\AkademikApp.FrmMahasiswa.resources
+E:\Pemograman Lanjut\Untuk mahasiswa\01 Module Praktikum 09\01 Module Praktikum 09\AkademikApp\AkademikApp\obj\Debug\AkademikApp.Properties.Resources.resources
+E:\Pemograman Lanjut\Untuk mahasiswa\01 Module Praktikum 09\01 Module Praktikum 09\AkademikApp\AkademikApp\obj\Debug\AkademikApp.csproj.GenerateResource.cache
+E:\Pemograman Lanjut\Untuk mahasiswa\01 Module Praktikum 09\01 Module Praktikum 09\AkademikApp\AkademikApp\obj\Debug\AkademikApp.csproj.CoreCompileInputs.cache
+E:\Pemograman Lanjut\Untuk mahasiswa\01 Module Praktikum 09\01 Module Praktikum 09\AkademikApp\AkademikApp\obj\Debug\AkademikApp.exe
+E:\Pemograman Lanjut\Untuk mahasiswa\01 Module Praktikum 09\01 Module Praktikum 09\AkademikApp\AkademikApp\obj\Debug\AkademikApp.pdb
